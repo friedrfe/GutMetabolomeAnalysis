@@ -1,2 +1,8 @@
 # IBD_classification
 IBD classification using gut microbiome mass spec data
+
+Untargeted metabolomic profiling of stool samples from patients with Crohn’s disease (CD), ulcerative colitis (UC), and non-inflammatory bowel disease control (IBD) patients was performed in the study of E. A. Franzosa et al. Previous studies have found differences in faecal metabolite composition in IBD patients. In their study metabolomic and shotgun metagenomic profiling was conducted, and in this analysis only the metabolomic features derived by liquid chromatography-mass spectrometry (LC-MS) will be considered. The data set includes untargeted metabolomic profiles of stool samples from a 155-member discovery cohort and a 65-member independent validation cohort. Four different LC-MS methods were used to cover different metabolites classes like polar metabolites, lipids, free fatty acids, and bile acids. 3829 uncharacterized metabolite features were assigned to putative molecular classed based on comparison to the Human Metabolome Database (HMDB) and 566 features were annotated by reference from an in-house compound library. Also, metabolites were clustered based on their covariation across samples. The discovery cohort includes 68 CD, 53 UC, and 34 non-IBD patients. Whereas the validation cohort is more balanced with 20 CD, 23 UC, and 22 control patients. 
+
+Herein, different ML methods were used and compared. The preliminary analyis can be found here and will be soon updated and discussed. https://app.datacamp.com/workspace/w/9596db81-5111-4464-b62d-95a2c244c40b
+
+Here is a link to the dimension reduction section for the gut microbiome analysis and will be integrated in the modeling section: https://rpubs.com/friedrfe96/888464
