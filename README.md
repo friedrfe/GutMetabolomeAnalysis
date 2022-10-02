@@ -5,5 +5,7 @@ The goal of the project is to present an analysis of clinical data by leveraging
 
 This project is based on high-dimensional data obtained by mass spectrometry (MS). Here, different dimensionality reduction and machine learning (ML) methods will be used and discussed. The script is divided in several sections, starting with data wrangling, followed by exploratory data analysis. Different methods are used for dimension reduction with subsequent classification from a variety of ML models. Finally, the results will be discussed. Moreover, a differential expression analysis is planned. 
 
-The analysis is published on DataCamps workspace & RPubs:
+The analysis is published on DataCamps workspace & RPubs. On RPubs the full functionality of the interactive visualizations is given: https://rpubs.com/friedrfe/950243
+
+On Datacamp feel free to comment on the project and explore other projects from me: https://app.datacamp.com/workspace/w/95067b47-c567-449a-a985-a65a1f436e72
 
